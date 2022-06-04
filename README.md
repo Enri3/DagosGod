@@ -29,4 +29,6 @@ Una vez tengamos eso configurado, lo podremos inicializar:
 
 > ``ddev start``
 
-<p align="center"> ![Captura de inicialización del proyecto en ddev](captura1.png) Captura de visualización en consola. </p>
+![Captura de inicialización del proyecto en ddev](captura1.png)
+
+<p align="center">Captura de visualización en consola.</p>
